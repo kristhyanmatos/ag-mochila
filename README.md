@@ -1,4 +1,4 @@
-### Sistema de Otmização de Carga
+### Sistema de Otimização de Carga
 
     Allef Jardim Vieira Fonseca
     FACEEL - Faculdade de Computação e Engenharia Elétrica
